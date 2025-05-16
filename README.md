@@ -1,1 +1,1 @@
-# Aulas de Lógica de Programção
+# Aulas de Lógica de Programação
